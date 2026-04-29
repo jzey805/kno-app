@@ -1,9 +1,9 @@
-# <img src="./public/logo.png" width="45" align="center"> Kno
+# <img src="https://github.com/user-attachments/assets/6d8a5623-086f-4b38-94e6-9018830dcf91" width="60" align="center"> Kno
 
 > **From Feed to Knowledge.** > Kno is a spatial knowledge reasoning engine designed to transform your daily information feed into structured, actionable wisdom.
 
-[![Download for macOS](https://img.shields.io/badge/Download-macOS-blue?style=for-the-badge&logo=apple)]([sha256:be2a59d2aa713d608bbf38944f26df3e6e0f0aee62c05c5b694f3d1a6971e1d8](https://github.com/jzey805/kno-app/releases/download/v1.0.0/kno-mac.dmg))
-[![Download for Windows](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge&logo=windows)](YOUR_GITHUB_EXE_LINK_HERE)
+[![Download for macOS](https://img.shields.io/badge/Download-macOS-blue?style=for-the-badge&logo=apple)](https://github.com/jzey805/kno-app/releases/download/v1.0.0/kno-mac.dmg)
+[![Download for Windows](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge&logo=windows)](https://github.com/jzey805/kno-app/releases/download/v1.0.0/kno-mac.dmg)
 
 ---
 
