@@ -49,7 +49,7 @@ Kno is built for the modern user.
 ## 🛠 Installation
 
 ### macOS
-1. Download the `.dmg` file from the [Releases]() page.
+1. Download the `.dmg` file from the [Releases](https://github.com/jzey805/kno-app/releases) page.
 2. Drag **Kno** to your `Applications` folder.
 3. Open and start reasoning.
 
