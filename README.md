@@ -2,7 +2,7 @@
 
 > **From Feed to Knowledge.** > Kno is a spatial knowledge reasoning engine designed to transform your daily information feed into structured, actionable wisdom.
 
-[![Download for macOS](https://img.shields.io/badge/Download-macOS-blue?style=for-the-badge&logo=apple)](sha256:be2a59d2aa713d608bbf38944f26df3e6e0f0aee62c05c5b694f3d1a6971e1d8)
+[![Download for macOS](https://img.shields.io/badge/Download-macOS-blue?style=for-the-badge&logo=apple)]([sha256:be2a59d2aa713d608bbf38944f26df3e6e0f0aee62c05c5b694f3d1a6971e1d8](https://github.com/jzey805/kno-app/releases/download/v1.0.0/kno-mac.dmg))
 [![Download for Windows](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge&logo=windows)](YOUR_GITHUB_EXE_LINK_HERE)
 
 ---
@@ -49,7 +49,7 @@ Kno is built for the modern user.
 ## 🛠 Installation
 
 ### macOS
-1. Download the `.dmg` file from the [Releases](sha256:be2a59d2aa713d608bbf38944f26df3e6e0f0aee62c05c5b694f3d1a6971e1d8) page.
+1. Download the `.dmg` file from the [Releases]() page.
 2. Drag **Kno** to your `Applications` folder.
 3. Open and start reasoning.
 
